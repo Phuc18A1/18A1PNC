@@ -1,1 +1,4 @@
-# 18A1PNC
+# STT: 47
+#MSV: 24174600034
+# Họ và tên: Đào Đoàn Huy Phúc
+# Lớp: DHKL18A1HN
