@@ -1,0 +1,12 @@
+[
+    {
+        "loai": "tiền",
+        "so_tien": 500000.0,
+        "mo_ta": "mua văn phòng"
+    },
+    {
+        "loai": "vàng",
+        "so_tien": 20000000.0,
+        "mo_ta": "bán vàng"
+    }
+]
